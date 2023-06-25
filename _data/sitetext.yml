@@ -106,7 +106,7 @@ en: &DEFAULT_EN
     people:
       - name: "Jake Ottenwaelder"
         role: "Principle Consultant"
-        image: assets/img/team/1.jpg
+        image: assets/img/team/PXL_20230311_003720182.PORTRAIT.jpg
         social:
           - url: https://www.linkedin.com/in/jake-ottenwaelder-02bbb7105/
             icon: fab fa-linkedin-in
