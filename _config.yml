@@ -11,10 +11,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-theme: jekyll-agency
+#theme: jekyll-agency
+remote_theme: raviriley/agency-jekyll-theme
 
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
 
 title      : Website Work Pls
 email      : jake.ottenwaelder@gmail.com #this is also the email contact forms will go to
@@ -37,3 +38,5 @@ markdown: kramdown
 # Uncomment following line to use Formspree form ID based URL instead of email based URL
 # Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
 # formspree_form_path: "f/a_form_id"
+plugins:
+  - jekyll-remote-theme
