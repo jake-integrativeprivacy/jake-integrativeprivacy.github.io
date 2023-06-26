@@ -93,16 +93,16 @@ en: &DEFAULT_EN
     horizontal-scrolling: "" #"yes/no"
     list:
       - title: "axon"
-#        url: https://github.com/raviriley/agency-jekyll-theme
+#        url: https://www.axon.com/
         logo: assets/img/clients/axon.jpg
       - title: "deloitte"
-#        url: https://github.com/raviriley/agency-jekyll-theme
+#        url: https://www2.deloitte.com/us/en/pages/public-sector/solutions/federal-cyber-risk-services.html
         logo: assets/img/clients/deloitte.png
       - title: "gofundme"
-#        url: https://github.com/raviriley/agency-jekyll-theme
+#        url: https://www.gofundme.com/
         logo: assets/img/clients/GoFundMe-Logo.png
       - title: "plume"
-#        url: https://github.com/raviriley/agency-jekyll-theme
+#        url: https://www.plume.com/
         logo: assets/img/clients/plume.png
 
   team:
