@@ -26,10 +26,11 @@
     .nav-item {
       .nav-link {
         font-size: 90%;
+        font-weight: bold;
         font-weight: 400;
         padding: 0.75em 0;
         letter-spacing: 1px;
-        color: $blue-1;
+        color: $gray-300;
         @include heading-font;
         &.active,
         &:hover {
