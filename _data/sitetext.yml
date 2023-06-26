@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Privacy Engineering Services
+    title: 
     text: Need help with privacy?
     button: Tell Me More
     buttonlink: "#services"
@@ -21,14 +21,11 @@ en: &DEFAULT_EN
     text: "Expertise services that I can provide"
     section: services
     list:
-      - title: "Feature/Service Privacy Review"
+      - title: "Privacy Review"
         desc: "Review and provide privacy risk register for given services or tools."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Data Anonymization"
         desc: "Design solutions for improving data masking techniques."
-        icon: fas fa-laptop
-      - title: "Privacy Engineer"
-        desc: "Manage privacy projects and communications across multiple teams"
         icon: fas fa-laptop
       - title: "Full Service Consulting"
         desc: "Manage privacy projects and communications across multiple teams"
@@ -85,28 +82,28 @@ en: &DEFAULT_EN
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+      - title: "axon"
+#        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/axon.jpg
+      - title: "deloitte"
+#        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/deloitte.png
+      - title: "gofundme"
+#        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/GoFundMe-Logo.png
+      - title: "plume"
+#        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/plume.png
 
   team:
     title: "OUR AMAZING TEAM"
     text: "Team of 1"
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    subtext: Jake is a privacy engineer
     section: team
     people:
       - name: "Jake Ottenwaelder"
         role: "Principle Consultant"
-        image: assets/img/team/PXL_20230311_003720182.PORTRAIT.jpg
+        image: assets/img/team/profile_image.jpg
         social:
           - url: https://www.linkedin.com/in/jake-ottenwaelder-02bbb7105/
             icon: fab fa-linkedin-in
