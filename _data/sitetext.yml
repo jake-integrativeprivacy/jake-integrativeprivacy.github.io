@@ -39,7 +39,7 @@ en: &DEFAULT_EN
         icon: fa-solid fa-road-circle-exclamation #https://fontawesome.com/icons/road-circle-exclamation?f=classic&s=solid
       - title: "Process Improvement"
         desc: "Audit and provide actionable insights to improving privacy processes at the organization"
-        icon: fa-regular fa-lightbulb #https://fontawesome.com/icons/lightbulb?f=classic&s=regular
+        icon: fas fa-lightbulb #https://fontawesome.com/icons/lightbulb?f=classic&s=regular
 #      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
 #        desc: "Your description here, full **Markdown** support"
 #        icon: fab fa-markdown
