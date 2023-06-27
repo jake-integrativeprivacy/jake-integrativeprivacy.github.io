@@ -29,7 +29,7 @@ en: &DEFAULT_EN
         icon: fas fa-laptop
       - title: "Full Service Consulting"
         desc: "Manage or support full stack implementation of privacy technologies or programs"
-        icon: fas fa-shield-halved #https://fontawesome.com/icons/shield-halved?f=classic&s=solid
+        icon: fa-solid fa-shield-halved #https://fontawesome.com/icons/shield-halved?f=classic&s=solid
 
       - title: "Privacy Education"
         desc: "Create customized data protection education programs to compliment existing or new security education"
