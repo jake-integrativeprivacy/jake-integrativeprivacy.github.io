@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     list:
       - title: "Privacy Review"
         desc: "Review and provide privacy risk register for given services or tools"
-        icon: fa-duotone fa-badge-check #https://fontawesome.com/icons/badge-check?f=classic&s=duotone
+        icon: fas fa-badge-check #https://fontawesome.com/icons/badge-check?f=classic&s=duotone
       - title: "Data Anonymization"
         desc: "Design/audit solutions for improving data masking techniques including statistical analysis of current implementations"
         icon: fas fa-laptop
@@ -36,7 +36,7 @@ en: &DEFAULT_EN
         icon: fas fa-shield-check #https://fontawesome.com/icons/shield-check?f=classic&s=solid
       - title: "Privacy Engineering Roadmaps"
         desc: "Work with organizational engineers to design roadmaps and prioritization based on legal requirements for existing risks"
-        icon: fa-solid fa-road-circle-exclamation #https://fontawesome.com/icons/road-circle-exclamation?f=classic&s=solid
+        icon: fas fa-road-circle-exclamation #https://fontawesome.com/icons/road-circle-exclamation?f=classic&s=solid
       - title: "Process Improvement"
         desc: "Audit and provide actionable insights to improving privacy processes at the organization"
         icon: fas fa-lightbulb #https://fontawesome.com/icons/lightbulb?f=classic&s=regular
