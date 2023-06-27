@@ -23,23 +23,23 @@ en: &DEFAULT_EN
     list:
       - title: "Privacy Review"
         desc: "Review and provide privacy risk register for given services or tools"
-        icon: fas fa-badge-check #https://fontawesome.com/icons/badge-check?f=classic&s=duotone
+        icon: fas fa-certificate
       - title: "Data Anonymization"
         desc: "Design/audit solutions for improving data masking techniques including statistical analysis of current implementations"
         icon: fas fa-laptop
       - title: "Full Service Consulting"
         desc: "Manage or support full stack implementation of privacy technologies or programs"
-        icon: fa-solid fa-shield-halved #https://fontawesome.com/icons/shield-halved?f=classic&s=solid
+        icon: fas fa-shield-alt 
 
       - title: "Privacy Education"
         desc: "Create customized data protection education programs to compliment existing or new security education"
-        icon: fas fa-shield-check #https://fontawesome.com/icons/shield-check?f=classic&s=solid
+        icon: fas fa-user-shield 
       - title: "Privacy Engineering Roadmaps"
         desc: "Work with organizational engineers to design roadmaps and prioritization based on legal requirements for existing risks"
-        icon: fas fa-road-circle-exclamation #https://fontawesome.com/icons/road-circle-exclamation?f=classic&s=solid
+        icon: fas fa-road 
       - title: "Process Improvement"
         desc: "Audit and provide actionable insights to improving privacy processes at the organization"
-        icon: fas fa-lightbulb #https://fontawesome.com/icons/lightbulb?f=classic&s=regular
+        icon: fas fa-lightbulb 
 #      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
 #        desc: "Your description here, full **Markdown** support"
 #        icon: fab fa-markdown
