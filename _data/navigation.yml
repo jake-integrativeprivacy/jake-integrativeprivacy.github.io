@@ -21,8 +21,8 @@ en: &DEFAULT_EN
 #      section: about
 #    - title: "Timeline"
 #      section: timeline
-    - title: "Contact"
-      section: contact
+#    - title: "Contact"
+#      section: contact
 #    - title: "Theme Source"
 #      url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
