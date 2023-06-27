@@ -2,7 +2,7 @@
 title: De-identification Algorithms
 subtitle: Worked with vendors to create improved algorithms
 image: "assets/img/portfolio/tonic_logo.png"
-alt: Shirts on a hanger
+alt: tonic
 
 caption:
   title: Masking Algorithms

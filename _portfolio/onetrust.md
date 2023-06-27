@@ -2,7 +2,7 @@
 title: Resolved OneTrust Techincal Issues
 subtitle: Led critical response teams to resolve OneTrust Issues
 image: "assets/img/portfolio/onetrust-vector-logo.png"
-alt: Keep Exploring
+alt: onetrust
 
 caption:
   title: Fixed OneTrust
