@@ -513,9 +513,7 @@ mark {
 }
 
 .img-port{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    padding-left: 10%;
     max-width: 100%;
     height: 120px;
 
