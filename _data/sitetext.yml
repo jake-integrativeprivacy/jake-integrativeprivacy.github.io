@@ -108,7 +108,7 @@ en: &DEFAULT_EN
   team:
     title: "About Me"
     text: ""
-    subtext: >
+    subtext: |
       After starting my career in cybersecurity, I transitioned my expertise into data protection.  
       I find privacy to be an interesting space where I can combine clear technical requirements with ethics. 
       I enjoy balancing business needs with a strong focus on providing users with the privacy rights that they deserve. 
