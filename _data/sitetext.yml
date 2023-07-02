@@ -108,11 +108,14 @@ en: &DEFAULT_EN
   team:
     title: "About Me"
     text: ""
-    subtext: After starting my career in cybersecurity, I transitioned my expertise into data protection.  
-    I find privacy to be an interesting space where I can combine clear technical requirements with ethics. 
-    I enjoy balancing business needs with a strong focus on providing users with the privacy rights that they deserve. 
-    I have a strong background in the various state and international regulations that are currently or quickly being implemented. 
-    I have worked with large companies, startups and government organizations to improve data protection and process automation. Use the contact form below to set up a 30 minute consultation
+    subtext: >
+      After starting my career in cybersecurity, I transitioned my expertise into data protection.  
+      I find privacy to be an interesting space where I can combine clear technical requirements with ethics. 
+      I enjoy balancing business needs with a strong focus on providing users with the privacy rights that they deserve. 
+      I have a strong background in the various state and international regulations that are currently or quickly being implemented. 
+      I have worked with large companies, startups and government organizations to improve data protection and process automation. 
+      
+      Use the contact form below to set up a 30 minute consultation.
     section: team
     people:
       - name: "Jake Ottenwaelder"
