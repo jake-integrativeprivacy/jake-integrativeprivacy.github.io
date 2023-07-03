@@ -513,6 +513,8 @@ mark {
 }
 
 .img-port{
+    justify-content: center;
+    align-self: center;
     max-width: 100%;
     height: 120px;
 
