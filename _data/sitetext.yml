@@ -151,7 +151,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Me"
-    text: "Reach out here to schedule a **free 30 minute** discovery session"
+    text: "Reach out here to schedule a free 30 minute discovery session"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
