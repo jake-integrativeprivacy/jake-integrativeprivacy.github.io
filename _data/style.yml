@@ -12,6 +12,6 @@ dark_blue: "#868ea2"
 
 #Image Customization
 header-image: "../img/pnw_bg_32.jpg"
-contact-image: "../img/contact_img2.jpg"
+contact-image: "../img/contact_img.jpg"
 #Font Awesome icon for portfolio grid when an item is hovered over
 #portfolio-icon: fas fa-expand-arrows-alt fa-3x #default: fas fa-plus fa-3x
