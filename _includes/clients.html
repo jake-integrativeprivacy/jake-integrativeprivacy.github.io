@@ -2,6 +2,7 @@
 {% if site.locale and site.locale != "" and site.locale != nil %}
   <section class="py-5" id="{{ site.data.sitetext[site.locale].clients.section | default: "clients" }}">
     <div class="container">
+      <h3 class="section-heading"><p>Companies We've Worked With</p></h3>
       <div class="row" {% if site.data.sitetext[site.locale].clients.horizontal-scrolling == "yes" %} id="scrolling-clients" {% endif %}>
 	    {% for client in site.data.sitetext[site.locale].clients.list %}
         <div class="col-md-3 col-sm-6">
@@ -16,11 +17,12 @@
 {% else %}
 <section class="py-5" id="{{ site.data.sitetext.clients.section | default: "clients" }}">
   <div class="container">
+    <h3 class="section-heading"><p>Companies We've Worked With</p></h3>
     <div class="row" {% if site.data.sitetext.clients.horizontal-scrolling == "yes" %} id="scrolling-clients" {% endif %}>
     {% for client in site.data.sitetext.clients.list %}
       <div class="col-md-3 col-sm-6">
         <a href="{{ client.url }}">
-          <img class="img-fluid d-block mx-auto" src="{{ client.logo }}" alt="{{ client.title }}" style="max-height: {{ site.data.sitetext.clients.max-height | default: "100px" }}">
+          <img class="img-fluid d-block mx-auto" src="{{ client.logo }}" alt="{{ client.title }}" style="max-height: {{site.data.sitetext.clients.max-height | default: "100px" }}">
         </a>
       </div>
     {% endfor %}
