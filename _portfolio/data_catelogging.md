@@ -5,7 +5,7 @@ image: "assets/img/clients/plume.png"
 alt: plume
 
 caption:
-  title: Data Catalogging
+  title: Data Cataloging
   subtitle: Creative Designer
   thumbnail: "assets/img/clients/plume.png"
 ---

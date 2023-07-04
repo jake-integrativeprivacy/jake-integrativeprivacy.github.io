@@ -18,11 +18,11 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "Expertise services that I can provide"
+    text: "Services that we provide"
     section: services
     list:
       - title: "Privacy Review"
-        desc: "Review and provide privacy risk register for given services or tools"
+        desc: "Review and provide privacy risk mitigations for services or tools"
         icon: fas fa-certificate
       - title: "Data Anonymization"
         desc: "Design/audit solutions for improving data masking techniques including statistical analysis of current implementations"
@@ -88,7 +88,7 @@ en: &DEFAULT_EN
       We believe that implementing privacy requires a technical, legal, and compassionate approach. Our methods involve having open communication with key stakeholder to understand how we can create differentiation through privacy.
       Making privacy a business driver will allow the organization to be more agile as regulations are coming into effect around the world. We use a risk-based approach to ensure that investments in privacy have tangible impacts on the organizations.
       
-      
+
     section: about
 
   clients:
@@ -123,7 +123,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Jake Ottenwaelder"
-        role: "Principle Consultant"
+        role: "Principal Consultant"
         image: assets/img/team/profile_image.jpg
         social:
           - url: https://www.linkedin.com/in/jake-ottenwaelder-02bbb7105/
@@ -150,7 +150,7 @@ en: &DEFAULT_EN
 #            icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Me"
+    title: "Contact Us"
     text: "Reach out here to schedule a <b>free 30 minute</b> discovery session"
     section: contact
     name: "Name*"
