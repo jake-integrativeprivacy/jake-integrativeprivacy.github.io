@@ -46,7 +46,11 @@
               <i class="{{ site.data.style.portfolio-icon | default: "fas fa-plus fa-3x" }}"></i>
             </div>
           </div>
-          <img class="img-port" src="{{ project.caption.thumbnail }}" alt="">
+          <span class="fa-stack fa-4x">
+            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+            <i class="{{ project.caption.thumbnail | default: "fas fa-shopping-cart" }} fa-stack-1x fa-inverse"></i>
+          </span>
+          <!--<img class="img-port" src="{{ project.caption.thumbnail }}" alt=""> -->
         </a>
         <div class="portfolio-caption">
           <h4>{{ project.caption.title }}</h4>
