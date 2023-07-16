@@ -1,13 +1,13 @@
 ---
 caption: #what displays in the portfolio grid:
   title: Implement Consent Management
-  subtitle: Project Leader
-  thumbnail: "assets/img/portfolio/Transcend_Vertical_Logo_(Color).jpg"
+  subtitle: GoFundMe
+  thumbnail: fas fa-lightbulb #"assets/img/portfolio/Transcend_Vertical_Logo_(Color).jpg"
   
 #what displays when the item is clicked:
 title: Tool Selection
 subtitle: Managed Rapid Implementation
-image: "assets/img/portfolio/Transcend_Vertical_Logo_(Color).jpg"
+image: fas fa-lightbulb #"assets/img/portfolio/Transcend_Vertical_Logo_(Color).jpg"
 alt: transcend
 ---
 
