@@ -22,11 +22,17 @@
               <!-- Project Details Go Here -->
               <h2 class="text-uppercase">{{ project.title }}</h2>
               <p class="item-intro text-muted">{{ project.subtitle }}</p>
+              <span class="fa-stack fa-4x">
+                <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                <i class="{{ project.image | default: "fas fa-shopping-cart" }} fa-stack-1x fa-inverse"></i>
+              </span>
+              <!--
               <img
                 class="img-fluid d-block mx-auto"
                 src="{{ project.image }}"
                 alt="{{ project.alt }}"
               />
+              -->
               <p>{{ project.content }}</p>
               <button
                 class="btn btn-primary"
@@ -66,11 +72,17 @@
               <!-- Project Details Go Here -->
               <h2 class="text-uppercase">{{ project.title }}</h2>
               <p class="item-intro text-muted">{{ project.subtitle }}</p>
+              <span class="fa-stack fa-4x">
+                <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                <i class="{{ project.image | default: "fas fa-shopping-cart" }} fa-stack-1x fa-inverse"></i>
+              </span>
+              <!--
               <img
                 class="img-fluid d-block mx-auto"
                 src="{{ project.image }}"
                 alt="{{ project.alt }}"
               />
+              -->
               <p>{{ project.content }}</p>
               <button
                 class="btn btn-primary"
